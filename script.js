@@ -11,5 +11,5 @@ moveButton.addEventListener("mouseover", function () {
 });
 
 correctlyButton.addEventListener("click", function () {
-  alert("Resposta Correta! Meu pix é o celular!");
+  alert("Resposta Correta! Minha chave Pix é o celular!");
 });
